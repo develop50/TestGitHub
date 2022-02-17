@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Log.i(Companion.TAG, "Change message 3")
+        Log.i(Companion.TAG, "Change message 4")
 
     }
 
